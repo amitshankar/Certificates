@@ -9,5 +9,5 @@ This repo contains accomplishments related to various trainings that I have acqu
   * [1-17-2020 General Data Protection Regulation - GDPR](https://github.com/amitshankar/Certificates/blob/main/General%20Data%20Protection%20Regulation%20-%20GDPR%20-%201-17-2020.png)
   * [12-25-2019 Green Belt Trained and Tested](https://github.com/amitshankar/Certificates/blob/main/Green%20Belt%20Trained%20and%20Tested%20-%2012-25-2019%20.png)
   * [09-14-2018 Data Analyst Nanodegree](https://github.com/amitshankar/Certificates/blob/main/Data%20Analyst%20Nanodegree%2009-14-2018.png) --https://graduation.udacity.com/confirm/CNACURG7
-  ** double
-
+     * Milk
+     * Cheese
