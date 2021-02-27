@@ -11,7 +11,7 @@ This repo contains certificates that I have acquired throughout my career.
 
 
 
-## 12-25-2019 Green Belt Trained and Tested
+### 12-25-2019 Green Belt Trained and Tested
 ![GitHub Logo](https://github.com/amitshankar/Certificates/blob/main/Green%20Belt%20Trained%20and%20Tested%20-%2012-25-2019%20.png)
 
 
